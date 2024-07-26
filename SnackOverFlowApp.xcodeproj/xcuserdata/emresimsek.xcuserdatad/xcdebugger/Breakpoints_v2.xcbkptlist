@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55998456-270E-41FF-BD72-037737B12A15"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB2B867-E646-491D-AAE0-CC3605CE3671"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "testFetchUserAndCheck()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F7231DF-DF38-4A11-A9DB-2883BF7AA98F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "testFetchUserAndCheck()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA9214DD-F4DB-46FC-BE48-2A3D1EC128AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "testFetchUserAndCheck()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "739147FD-2424-49EB-AE2F-30A0A1B26C5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "testUserLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "739147FD-2424-49EB-AE2F-30A0A1B26C5E - 93375926d181092d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SnackOverFlowAppTests.SnackOverFlowAppTests.testUserLogin() async throws -&gt; ()"
+                  moduleName = "SnackOverFlowAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emresimsek/SwiftDevelopment/SnackOverFlowApp/SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58">
+               </Location>
+               <Location
+                  uuid = "739147FD-2424-49EB-AE2F-30A0A1B26C5E - ecdd9d3f8ddc8966"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SnackOverFlowAppTests.SnackOverFlowAppTests.testUserLogin() async throws -&gt; ()"
+                  moduleName = "SnackOverFlowAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emresimsek/SwiftDevelopment/SnackOverFlowApp/SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58">
+               </Location>
+               <Location
+                  uuid = "739147FD-2424-49EB-AE2F-30A0A1B26C5E - e217df7537284d2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SnackOverFlowAppTests.SnackOverFlowAppTests.testUserLogin() async throws -&gt; ()"
+                  moduleName = "SnackOverFlowAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emresimsek/SwiftDevelopment/SnackOverFlowApp/SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84BC5127-1662-47F1-AEA1-CC1C061363D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnackOverFlowAppTests/SnackOverFlowAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "testUserLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
